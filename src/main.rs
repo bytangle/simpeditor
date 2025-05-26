@@ -1,4 +1,4 @@
-use core::textviewer1::TextViewer;
+use core::textviewer2::TextViewer;
 use std::{path::Path};
 
 mod core;
